@@ -7,6 +7,8 @@ Try to use java nio to implement a socket library with async/non-blocking mode.
 3. Millionsecond Timer;
 4. Multi core supported and load balanced among cores;
 
+12/8/2019
+-----------------------------------------
 Initial version: 0.1
 1. TCP/UDP -- meet
 2. thread safe -- not done yet
