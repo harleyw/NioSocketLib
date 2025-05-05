@@ -14,3 +14,7 @@ Initial version: 0.1
 2. thread safe -- not done yet
 
 Discuss with me at harleywang2000@hotmail.com
+
+05/05/2025
+-----------------------------------------
+With Deepwiki support, Wiki is generated at https://deepwiki.com/harleyw/NioSocketLib/
